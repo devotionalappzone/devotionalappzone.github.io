@@ -454,11 +454,6 @@
        }
     ],
     "moreApps":[
-      {
-         "name": "All God Songs - Offline",
-         "img": "godSongs.png",
-         "link": "com.svappzone.allgodsongs"
-       },
        {
           "name":"All God Sahasranamam, Ashtothram and Namavali",
           "img":"godSongs.png",
@@ -468,11 +463,6 @@
           "name":"Best Devotional Songs with Lyrics",
           "img":"godSongs.png",
           "link":"com.svappzone.BestDevotionalSongs"
-       },
-       {
-          "name":"Navagraha Stotram, Aditya Hrudayam, Surya Ashtakam",
-          "img":"navagrahalu.png",
-          "link":"com.svappzone.navagrahaStotram"
        },
        {
           "name":"Ramayanam, Bhagavad Gita, Mahabharatham in Telugu",
@@ -498,11 +488,6 @@
           "name":"Shiva God Songs",
           "img":"shivaGodSongs.PNG",
           "link":"com.svappzone.shivagodsongs"
-       },
-       {
-          "name":"Durga Navratri God Songs",
-          "img":"durgaGodSongs.PNG",
-          "link":"com.svappzone.durgaNavratriGodSongs"
        },
        {
           "name":"Annamayya Keerthanalu",
@@ -535,24 +520,9 @@
           "link":"com.svappzone.ganeshSongsTelugu"
        },
        {
-          "name":"Sri Rama God Songs",
-          "img":"sriRamaGodSongs.PNG",
-          "link":"com.svappzone.sriramagodsongsintelugu"
-       },
-       {
           "name":"National Anthem of India | Jana Gana Mana",
           "img":"deshBhakti.png",
           "link":"com.svappzone.nationalAnthemOfIndia"
-       },
-       {
-          "name":"Walk With Jagan Anna",
-          "img":"walkWithJagan.png",
-          "link":"com.svappzone.walkwithjagan"
-       },
-       {
-          "name":"Kids Preschool",
-          "img":"preschool.png",
-          "link":"kids.preschool.educationalAppForKids"
        },
        {
           "name":"Memory Game For Kids",
