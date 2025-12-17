@@ -460,6 +460,11 @@
           "link":"com.svappzone.allGodSahasranamamsAshtothramsAndNaamaavali"
        },
        {
+          "name":"Telugu Bhakti All In One",
+          "img":"godSongs.png",
+          "link":"com.svappzone.teluguBhakti"
+       },
+       {
           "name":"Best Devotional Songs with Lyrics",
           "img":"godSongs.png",
           "link":"com.svappzone.BestDevotionalSongs"
